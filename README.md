@@ -1,14 +1,14 @@
 # Save-Data_script
-This script allows you to backup your personal data from your PC and then store it on an external hard disk
+This script allows you to back up your personal data from your PC and store it on an external hard drive.
 
-Avant d'effectuer une copier coller, le fichier 'sauvegarde_script' ne dois pas se trouver dans les endroits suivants :
+Before running the copy process, the folder named `sauvegarde_script` must NOT be located in any of the following directories:
 
-Bureau
-Document
-OneDrive
-Download
-Images ou Pictures
-Musique
-Video
+- Desktop
+- Documents
+- OneDrive
+- Downloads
+- Images / Pictures
+- Music
+- Videos
 
-Votre fichier 'sauvegarde_script' doit être stocker sur une cle USB.
+For the script to work correctly, the `sauvegarde_script` folder must be stored on a USB drive.
